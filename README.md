@@ -1,2 +1,2 @@
 # Clone-website
-Practicing Cloning a webpage
+This is just for practicing 
